@@ -1,6 +1,6 @@
 # Personal profile of software engineering skills
 
-⬜ Optional, 🟦 Required for all, 🟨 Required for js, 🟩 Learned, 🐍 Learned for Python, 📗 Learned for Node.js, 🟥 Declined
+⬜ Optional, 🟦 Required for all, 🟨 Required for js, 🟩 Learned, 🐍 Learned for Python, 🦠 Learned for Node.js, 🟥 Declined
 
 ## Common fundamental concepts
 | Process & style      |
@@ -64,31 +64,31 @@
 
 | Syntax               | Statements             | Functions             | Data structures     |
 |----------------------|------------------------|-----------------------|---------------------|
-| 📗 value             | 📗 if                   | 📗 recursion          | 📗 array            | 
-| 📗 identifier        | 📗 loops                | 📗 function           | 📗 instance         | 
-| 📗 variable          | 📗 assignment           | 📗 return             | 📗 object           | 
-| 📗 constant          | 🟨 prototype            | 📗 signature          | 📗 collection       | 
-| 🟦 scalar            | 🟦 class                | 📗 argument           | 🟦 hash table       | 
-| 🟦 literal           | 🟦 while                | 📗 parameter          | 🟦 linked list      | 
-| 📗 expression        | 🟦 do..while            | 📗 pure function      | 🟦 queue            | 
-| 🟦 heap              | 🟦 for                  | 📗 lambda             | 🟦 stack            | 
-| 📗 type              | 📗 for..in              | 🟦 side effects       | 🟦 deque            | 
-| 📗 primitive types   | 📗 for..of              | 🟦 closure            | 🟦 serialization    | 
+| 🦠 value             | 🦠 if                   | 🦠 recursion          | 🦠 array            | 
+| 🦠 identifier        | 🦠 loops                | 🦠 function           | 🦠 instance         | 
+| 🦠 variable          | 🦠 assignment           | 🦠 return             | 🦠 object           | 
+| 🦠 constant          | 🟨 prototype            | 🦠 signature          | 🦠 collection       | 
+| 🟦 scalar            | 🟦 class                | 🦠 argument           | 🟦 hash table       | 
+| 🟦 literal           | 🟦 while                | 🦠 parameter          | 🟦 linked list      | 
+| 🦠 expression        | 🟦 do..while            | 🦠 pure function      | 🟦 queue            | 
+| 🟦 heap              | 🟦 for                  | 🦠 lambda             | 🟦 stack            | 
+| 🦠 type              | 🦠 for..in              | 🟦 side effects       | 🟦 deque            | 
+| 🦠 primitive types   | 🦠 for..of              | 🟦 closure            | 🟦 serialization    | 
 | 🟦 reference         | 🟨 for await            | 🟦 partial            | 🟦 mixin, extend    | 
-| 📗 flag              | 📗 throw                | ⬜️ curry              | 🟨 iterator         |️ 
-| 🟦 lexical scope     | 📗 try..catch           | 🟦 chaining           | 🟨 typed arrays     | 
-| 📗 code block        | 🟦 equality operators   | 🟦 higher order       | 🟨 Map              | 
-| 📗 Object            | 🟦 logical operators    | 🟦 callback           | 🟨 Set              | 
-| 📗 this              | 🟦 bitwise operators    | 🟦 listener           | ⬜️ weak collections |
-| 🟨 arrow function    | 📗 break, continue      | ⬜️ pipe               | ⬜️ Proxy            |
+| 🦠 flag              | 🦠 throw                | ⬜️ curry              | 🟨 iterator         |️ 
+| 🟦 lexical scope     | 🦠 try..catch           | 🟦 chaining           | 🟨 typed arrays     | 
+| 🦠 code block        | 🟦 equality operators   | 🟦 higher order       | 🟨 Map              | 
+| 🦠 Object            | 🟦 logical operators    | 🟦 callback           | 🟨 Set              | 
+| 🦠 this              | 🟦 bitwise operators    | 🟦 listener           | ⬜️ weak collections |
+| 🟨 arrow function    | 🦠 break, continue      | ⬜️ pipe               | ⬜️ Proxy            |
 | 🟨 generator         | 🟦 switch               | ⬜ compose            | ⬜️ Symbol           |
 | 🟨 async function    | 🟨 new Error            | ⬜️ memoize            | 🟨 string parsing   | 
 | 🟨 call, bind, apply |                         | 🟦 factory            | 🟨 timers           | 
 | 🟨 Array             |                         | 🟦 pool               | 🟨 EventEmitter     | 
 | 🟨 instanceof        |                         | 🟦 wrapper            | 🟨 RegExp           | 
-| 🟨 ...spread         |                         | 📗 default parameters | 📗 global           | 
-| 🟨 ...rest           |                         |                       | 📗 undefined        |
-| 🟨 typeof            |                         |                       | 📗 null             |
+| 🟨 ...spread         |                         | 🦠 default parameters | 🦠 global           | 
+| 🟨 ...rest           |                         |                       | 🦠 undefined        |
+| 🟨 typeof            |                         |                       | 🦠 null             |
 
 ## Multi-paradigm programming
 
